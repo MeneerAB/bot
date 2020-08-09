@@ -121,4 +121,4 @@ bot.on('ready', () => {
 
 
 // Login
-bot.login("NzMyNjE5ODI3NjI5NTIyOTc0.Xw35QQ.got0dx7xqUw-mBy8HcSuU-iJGnQ") 
+bot.login("howboutno") 
